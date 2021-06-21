@@ -1,0 +1,42 @@
+/******************************************** TAG SELECTOR *********************************************/
+
+body:hover {
+  background-color: #6495ed;
+}
+
+img:hover {
+  border-style: groove;
+  background-color: yellow;
+}
+
+
+/******************************************** CLASS SECECTOR ********************************************/
+
+.Bacon{
+    background-color: orange;
+}
+
+.Broccoli{
+    background-color: red;
+}
+
+.p{
+  color: black;
+}
+
+.circular{
+  border-radius: 100px;
+}
+
+.h1{
+  color: red;
+}
+/******************************************** ID SECECTOR ********************************************/
+/*
+
+ERROR, when i tried id selector. "DON't use ID's in secector"
+
+#header {
+  color: yellow;
+}
+*/
